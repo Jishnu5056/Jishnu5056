@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jishnu5056
+- 👋 Hi, I’m @Jishnu
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
